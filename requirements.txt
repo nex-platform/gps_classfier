@@ -1,0 +1,6 @@
+shapely>=2.0
+pytest>=7.0
+setuptools
+
+# Optional: enables --plot live visualization
+matplotlib>=3.5

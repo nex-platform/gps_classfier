@@ -1,0 +1,17 @@
+{
+  "region_a": {
+    "shape": "circle",
+    "center": [0, 0],
+    "radius": 5
+  },
+  "region_b": {
+    "shape": "polygon",
+    "vertices": [
+      [10, 0],
+      [20, 0],
+      [20, 8],
+      [14, 12],
+      [10, 8]
+    ]
+  }
+}

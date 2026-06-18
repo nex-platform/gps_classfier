@@ -1,0 +1,17 @@
+# Python stuff
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# Log files (if your simulation creates these)
+logs/
+*.log
